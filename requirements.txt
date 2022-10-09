@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+pillow
+h5py
+requests
+pickle5

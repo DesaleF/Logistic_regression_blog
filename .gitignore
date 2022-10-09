@@ -1,0 +1,7 @@
+datasets/test_catvnoncat.h5
+datasets/train_catvnoncat.h5
+checkpoints/checkpoint.pkl
+datasets/__pycache__/__init__.cpython-38.pyc
+datasets/__pycache__/datasets.cpython-38.pyc
+model/__pycache__/model.cpython-38.pyc
+model/__pycache__/__init__.cpython-38.pyc
